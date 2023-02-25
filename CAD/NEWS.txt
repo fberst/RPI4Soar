@@ -1,0 +1,10 @@
+RPISoar_V2 - 2023/02/25
+  - ventilation slots added
+  - spacers lengthened and connector cutouts shifted to get more clearance from backplate
+  - edge on the front of the frame added for rear wall mounting
+
+RPISoar_V1 - 2023/02/23
+  - initial release
+  
+USB_RS232_Adapter_V1 - 2023/02/23
+  - initial release
