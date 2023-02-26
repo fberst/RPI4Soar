@@ -1,0 +1,8 @@
+USB_RS232_Adapter_V2 - 2023/02/26
+  - replaced THT components with their SMD variants
+
+RPISoar_V1 - 2023/02/23
+  - initial release
+  
+USB_RS232_Adapter_V1 - 2023/02/23
+  - initial release
