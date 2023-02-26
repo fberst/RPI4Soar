@@ -13695,7 +13695,7 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 <part name="U$2" library="rbe" deviceset="TRACO_THN15WI" device="" value="TRACO_THN15WI +12V"/>
 <part name="J2" library="SparkFun-Connectors" deviceset="CONN_03X2" device="FEMALE" value="FEMALE 2x3"/>
 <part name="D1" library="adafruit" deviceset="1N4004" device=""/>
-<part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_PTH" value="72V/0.25A"/>
+<part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_PTH" value="30V/3.5A"/>
 <part name="J4" library="SparkFun-Connectors" deviceset="CONN_03" device="" value="J4"/>
 <part name="R1" library="SparkFun-Resistors" deviceset="RESISTOR" device="AXIAL-0.3" value=" "/>
 <part name="R2" library="SparkFun-Resistors" deviceset="RESISTOR" device="AXIAL-0.3" value=" "/>
